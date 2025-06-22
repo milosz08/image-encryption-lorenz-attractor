@@ -1,6 +1,7 @@
 # Images encryption using chaotic Lorenz attractor
 
-Part of my [LinkedIn article]() (written in Polish).
+Source code from my [LinkedIn article](https://www.linkedin.com/pulse/szyfrowanie-obraz%25C3%25B3w-z-wykorzystaniem-chaotycznego-atraktora-gilga-u16je)
+(written in Polish).
 
 ## Prepare notebook
 
@@ -25,4 +26,5 @@ $ (.venv) pip install -r requirements.txt
 
 ## Author
 
-Created by Miłosz Gilga. If you have any questions about this application, send message: [miloszgilga@gmail.com](mailto:miloszgilga@gmail.com).
+Created by Miłosz Gilga. If you have any questions about this source code, send message:
+[miloszgilga@gmail.com](mailto:miloszgilga@gmail.com).
