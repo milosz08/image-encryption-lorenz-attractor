@@ -1,4 +1,4 @@
-# Images encryption using chaotic Lorenz attractor
+# Image encryption using chaotic Lorenz attractor
 
 Source code from my [LinkedIn article](https://www.linkedin.com/pulse/szyfrowanie-obraz%25C3%25B3w-z-wykorzystaniem-chaotycznego-atraktora-gilga-u16je)
 (written in Polish).
