@@ -8,7 +8,7 @@ Source code from my [LinkedIn article](https://www.linkedin.com/pulse/szyfrowani
 1. Clone repository:
 
 ```bash
-$ git clone https://github.com/milosz08/crypto-with-lorenz-attractor
+$ git clone https://github.com/milosz08/image-encryption-lorenz-attractor
 ```
 
 2. Create and activate virtual environment:
