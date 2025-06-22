@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "brennondenny.vsc-jetbrains-icons-enhanced",
+    "k--kato.intellij-idea-keybindings",
+    "ms-python.debugpy",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-toolsai.jupyte",
+    "ms-toolsai.jupyter-keymap",
+    "ms-toolsai.jupyter-renderers",
+    "ms-toolsai.vscode-jupyter-cell-tags",
+    "ms-toolsai.vscode-jupyter-slideshow"
+  ]
+}
