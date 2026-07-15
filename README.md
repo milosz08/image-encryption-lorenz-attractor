@@ -15,7 +15,7 @@ $ git clone https://github.com/milosz08/image-encryption-lorenz-attractor
 
 ```bash
 $ python -m venv .venv
-$ source .venv/Scripts/activate
+$ source .venv/bin/activate
 ```
 
 3. Install dependencies:
