@@ -1,5 +1,4 @@
 {
-  "editor.defaultFormatter": "James-Yu.latex-workshop",
   "editor.detectIndentation": false,
   "editor.fontFamily": "Consolas",
   "editor.fontSize": 13,
@@ -19,9 +18,7 @@
   "git.autofetch": false,
   "jupyter.askForKernelRestart": false,
   "notebook.output.textLineLimit": 3000,
-  "workbench.colorTheme": "Default Dark Modern",
   "workbench.editor.enablePreview": false,
-  "workbench.iconTheme": "vsc-jetbrains-icons-enhanced",
   "workbench.startupEditor": "none",
   "workbench.tree.enableStickyScroll": false,
   "workbench.tree.indent": 20,
